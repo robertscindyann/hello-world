@@ -1,2 +1,1 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+My name is Cindy-Ann Roberts, after stepping away from coding for over a year, I'm excited to dive back in
